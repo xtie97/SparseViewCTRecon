@@ -1,0 +1,16 @@
+{
+    "data_dir": "/media/xintie/Elements/DeepEnChroma/Data_rcn/results_grad_61/output_sino",
+    "df_train": "/media/xintie/Elements/DeepEnChroma/Data_rcn/test_index.csv",
+    "df_val": "/media/xintie/Elements/DeepEnChroma/Data_rcn/val_index.csv",
+    "df_test": "/media/xintie/Elements/DeepEnChroma/Data_rcn/test_index.csv",
+    "potential": "high",
+    "num_views": 61,
+    "checkpoints": "/home/xintie/SparseViewRecon/AttentionUNet_Monai/checkpoints_sino/",
+    "intermediate": "/home/xintie/SparseViewRecon/AttentionUNet_Monai/intermediate_sino/", 
+    "results_separate": "/media/xintie/Elements/DeepEnChroma/Data_rcn/results_sino_61", // save slices separately                          
+    "savename": "AttenUNet_sino",  
+    "batch_size": 4,
+    "nepoch": 500,
+    "lamda": 1,  
+    "lrate": 1e-4
+}

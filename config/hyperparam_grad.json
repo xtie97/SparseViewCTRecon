@@ -1,0 +1,17 @@
+{
+    "data_dir": "/media/xintie/Elements/DeepEnChroma/Data_rcn",
+    "df_train": "/media/xintie/Elements/DeepEnChroma/Data_rcn/train_index.csv",
+    "df_val": "/media/xintie/Elements/DeepEnChroma/Data_rcn/val_index.csv",
+    "df_test": "/media/xintie/Elements/DeepEnChroma/Data_rcn/test_index.csv",
+    "potential": "high",
+    "num_views": "61",
+    "checkpoints": "./checkpoints_grad/",
+    "save_all": 0, // 0 denotes only save the best, 1 denotes save all epochs  
+    "intermediate": "./intermediate_grad/", 
+    "results_separate": "/media/xintie/Elements/DeepEnChroma/Data_rcn/results_grad_61", // save slices separately                          
+    "savename": "AttenUNet_grad",  
+    "batch_size": 16,
+    "nepoch": 600,  
+    "lrate": 1e-4,
+    "lamda": 1
+}
