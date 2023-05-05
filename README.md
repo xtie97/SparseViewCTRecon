@@ -21,6 +21,7 @@ python evaluate_sino.py -c config/hyperparam_sino.json
 ```
 ## Links
 
-[link text](http://dev.nodeca.com)
+[link to the course webpage](http://nodeca.github.io/pica/demo/ "title text!")
 
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
+[link to all reports](https://github.com/xtie97/SparseViewCTRecon/tree/main)
+
