@@ -21,7 +21,7 @@ python evaluate_sino.py -c config/hyperparam_sino.json
 ```
 ## Links
 
-[link to the course webpage](http://nodeca.github.io/pica/demo/ "title text!")
+[link to the course webpage](https://sites.google.com/wisc.edu/cs766-spring-2023-sparseview/home)
 
 [link to all reports](https://github.com/xtie97/SparseViewCTRecon/tree/main)
 
